@@ -1,4 +1,4 @@
-baseURL = "https://dsunn.github.io/"
+baseURL = "https://dsunn.github.io/whatever/"
 languageCode = "en-us"
 title = "Whatever Blog"
 theme = "hugo-clarity"
